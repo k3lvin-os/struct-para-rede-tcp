@@ -1,0 +1,2 @@
+Adicione a seguinte informação ao linker do DEV C++: 
+-lws2_32
